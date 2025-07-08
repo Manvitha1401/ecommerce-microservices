@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b546f0b3-5e00-44cf-bd3d-7b5e8ca3efad" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/util/target/" />
+    <ignored path="$PROJECT_DIR$/api/target/" />
+    <ignored path="$PROJECT_DIR$/services/product-service/target/" />
+    <ignored path="$PROJECT_DIR$/services/recommendation-service/target/" />
+    <ignored path="$PROJECT_DIR$/services/review-service/target/" />
+    <ignored path="$PROJECT_DIR$/services/product-composite-service/target/" />
+    <ignored path="$PROJECT_DIR$/discovery/service-discovery-server/target/" />
+    <ignored path="$PROJECT_DIR$/discovery/service-gateway-server/target/" />
+    <ignored path="$PROJECT_DIR$/discovery/service-authorization-server/target/" />
+    <ignored path="$PROJECT_DIR$/discovery/service-config-server/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="docker-compose.yaml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docker-compose.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="129" column="17" selection-start-line="129" selection-start-column="17" selection-end-line="129" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ParameterizedTy</find>
+      <find>createCompositeProduct</find>
+      <find>assertThat</find>
+      <find>RecommendationRepository</find>
+      <find>webClient</find>
+      <find>eureka</find>
+      <find>${</find>
+      <find>weight</find>
+      <find>product-composite</find>
+      <find>8761</find>
+      <find>SPRING</find>
+      <find>Exception</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>product-composite-service</replace>
+      <replace>${app.service-discovery-server.port}</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/discovery/service-config-server/src/main/java/com/habeebcycle/microservices/discovery/serviceconfigserver/config/SecurityConfiguration.java" />
+        <option value="$PROJECT_DIR$/discovery/service-authorization-server/src/test/java/com/habeebcycle/microservices/discovery/serviceauthorizationserver/ServiceAuthorizationServerApplicationTests.java" />
+        <option value="$PROJECT_DIR$/config-repo/service-authorization-server.yaml" />
+        <option value="$PROJECT_DIR$/discovery/service-authorization-server/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/config-repo/service-discovery-server.yaml" />
+        <option value="$PROJECT_DIR$/discovery/service-config-server/src/main/resources/bootstrap.yaml" />
+        <option value="$PROJECT_DIR$/discovery/service-discovery-server/src/test/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/discovery/service-discovery-server/src/test/java/com/habeebcycle/microservices/discovery/servicediscoveryserver/ServiceDiscoveryServerApplicationTests.java" />
+        <option value="$PROJECT_DIR$/discovery/service-discovery-server/src/test/resources/application.properties" />
+        <option value="$PROJECT_DIR$/discovery/service-gateway-server/src/test/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/discovery/service-gateway-server/src/test/java/com/habeebcycle/microservices/discovery/servicegatewayserver/ServiceGatewayServerApplicationTests.java" />
+        <option value="$PROJECT_DIR$/discovery/service-gateway-server/src/main/java/com/habeebcycle/microservices/discovery/servicegatewayserver/config/HealthCheckConfiguration.java" />
+        <option value="$PROJECT_DIR$/services/product-composite-service/src/test/java/com/habeebcycle/microservices/services/productcompositeservice/message/MessagingTests.java" />
+        <option value="$PROJECT_DIR$/services/product-service/src/test/java/com/habeebcycle/microservices/services/productservice/ProductServiceApplicationTests.java" />
+        <option value="$PROJECT_DIR$/services/recommendation-service/src/test/java/com/habeebcycle/microservices/services/recommendationservice/RecommendationServiceApplicationTests.java" />
+        <option value="$PROJECT_DIR$/services/review-service/src/test/java/com/habeebcycle/microservices/services/reviewservice/ReviewServiceApplicationTests.java" />
+        <option value="$PROJECT_DIR$/discovery/service-gateway-server/src/main/java/com/habeebcycle/microservices/discovery/servicegatewayserver/config/SecurityConfiguration.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/com/habeebcycle/microservices/api/core/product/ProductService.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/com/habeebcycle/microservices/api/composite/product/ProductCompositeService.java" />
+        <option value="$PROJECT_DIR$/services/product-composite-service/src/main/java/com/habeebcycle/microservices/services/productcompositeservice/integration/ProductCompositeIntegration.java" />
+        <option value="$PROJECT_DIR$/services/product-service/src/main/java/com/habeebcycle/microservices/services/productservice/services/ProductServiceImpl.java" />
+        <option value="$PROJECT_DIR$/services/product-composite-service/src/test/java/com/habeebcycle/microservices/services/productcompositeservice/ProductCompositeServiceApplicationTests.java" />
+        <option value="$PROJECT_DIR$/services/product-composite-service/src/test/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/config-repo/service-gateway-server.yaml" />
+        <option value="$PROJECT_DIR$/discovery/service-authorization-server/src/main/resources/bootstrap.yaml" />
+        <option value="$PROJECT_DIR$/discovery/service-discovery-server/src/main/resources/bootstrap.yaml" />
+        <option value="$PROJECT_DIR$/discovery/service-gateway-server/src/main/resources/bootstrap.yaml" />
+        <option value="$PROJECT_DIR$/services/product-composite-service/src/main/resources/bootstrap.yaml" />
+        <option value="$PROJECT_DIR$/services/product-service/src/main/resources/bootstrap.yaml" />
+        <option value="$PROJECT_DIR$/services/recommendation-service/src/main/resources/bootstrap.yaml" />
+        <option value="$PROJECT_DIR$/services/review-service/src/main/resources/bootstrap.yaml" />
+        <option value="$PROJECT_DIR$/discovery/service-config-server/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/discovery/service-authorization-server/pom.xml" />
+        <option value="$PROJECT_DIR$/services/product-service/pom.xml" />
+        <option value="$PROJECT_DIR$/discovery/service-discovery-server/pom.xml" />
+        <option value="$PROJECT_DIR$/discovery/service-gateway-server/pom.xml" />
+        <option value="$PROJECT_DIR$/services/recommendation-service/pom.xml" />
+        <option value="$PROJECT_DIR$/services/review-service/pom.xml" />
+        <option value="$PROJECT_DIR$/config-repo/application.yaml" />
+        <option value="$PROJECT_DIR$/config-repo/product-composite-service.yaml" />
+        <option value="$PROJECT_DIR$/config-repo/product-service.yaml" />
+        <option value="$PROJECT_DIR$/config-repo/recommendation-service.yaml" />
+        <option value="$PROJECT_DIR$/config-repo/review-service.yaml" />
+        <option value="$PROJECT_DIR$/docker-compose-partitions.yaml" />
+        <option value="$PROJECT_DIR$/docker-compose.yaml" />
+        <option value="$PROJECT_DIR$/docker-compose-external-services.yaml" />
+        <option value="$PROJECT_DIR$/docker-compose-kafka.yaml" />
+        <option value="$PROJECT_DIR$/data/zipkin-tables.sql" />
+        <option value="$PROJECT_DIR$/services/product-composite-service/pom.xml" />
+        <option value="$PROJECT_DIR$/services/product-composite-service/src/main/java/com/habeebcycle/microservices/services/productcompositeservice/services/ProductCompositeServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="product-composite-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="24" />
+    <option name="y" value="832" />
+    <option name="width" value="1400" />
+    <option name="height" value="39" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservices" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="product-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="product-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="product-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="product-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="product-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="productservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="product-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="productservice" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.habeebcycle.microservices.services.recommendationservice.mapper" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.habeebcycle.microservices.api.composite.product" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Abc\Documents\Development\Learning\Java\microservices\discovery\service-discovery-server\src\test" />
+      <recent name="C:\Users\Abc\Documents\Development\Learning\Java\microservices\discovery\service-config-server" />
+      <recent name="C:\Users\Abc\Documents\Development\Learning\Java\microservices\discovery\service-authorization-server" />
+      <recent name="C:\Users\Abc\Documents\Development\Learning\Java\microservices\discovery\service-gateway-server" />
+      <recent name="C:\Users\Abc\Documents\Development\Learning\Java\microservices\discovery\service-discovery-server" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ProductCompositeServiceApplicationTests">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="MessagingTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="product-composite-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.habeebcycle.microservices.services.productcompositeservice.message.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.habeebcycle.microservices.services.productcompositeservice.message" />
+      <option name="MAIN_CLASS_NAME" value="com.habeebcycle.microservices.services.productcompositeservice.message.MessagingTests" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ProductCompositeServiceApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="product-composite-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.habeebcycle.microservices.services.productcompositeservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.habeebcycle.microservices.services.productcompositeservice" />
+      <option name="MAIN_CLASS_NAME" value="com.habeebcycle.microservices.services.productcompositeservice.ProductCompositeServiceApplicationTests" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ServiceAuthorizationServerApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service-authorization-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.habeebcycle.microservices.discovery.serviceauthorizationserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.habeebcycle.microservices.discovery.serviceauthorizationserver" />
+      <option name="MAIN_CLASS_NAME" value="com.habeebcycle.microservices.discovery.serviceauthorizationserver.ServiceAuthorizationServerApplicationTests" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ServiceAuthorizationServerApplicationTests.requestTokenWhenUsingPasswordGrantTypeThenOk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service-authorization-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.habeebcycle.microservices.discovery.serviceauthorizationserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.habeebcycle.microservices.discovery.serviceauthorizationserver" />
+      <option name="MAIN_CLASS_NAME" value="com.habeebcycle.microservices.discovery.serviceauthorizationserver.ServiceAuthorizationServerApplicationTests" />
+      <option name="METHOD_NAME" value="requestTokenWhenUsingPasswordGrantTypeThenOk" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ServiceDiscoveryServerApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service-discovery-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.habeebcycle.microservices.discovery.servicediscoveryserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.habeebcycle.microservices.discovery.servicediscoveryserver" />
+      <option name="MAIN_CLASS_NAME" value="com.habeebcycle.microservices.discovery.servicediscoveryserver.ServiceDiscoveryServerApplicationTests" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ProductCompositeServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="product-composite-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.habeebcycle.microservices.services.productcompositeservice.ProductCompositeServiceApplication" />
+    </configuration>
+    <configuration name="ProductServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="product-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.habeebcycle.microservices.services.productservice.ProductServiceApplication" />
+    </configuration>
+    <configuration name="RecommendationServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="recommendation-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.habeebcycle.microservices.services.recommendationservice.RecommendationServiceApplication" />
+    </configuration>
+    <configuration name="ReviewServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="review-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.habeebcycle.microservices.services.reviewservice.ReviewServiceApplication" />
+    </configuration>
+    <configuration name="ServiceAuthorizationServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-authorization-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.habeebcycle.microservices.discovery.serviceauthorizationserver.ServiceAuthorizationServerApplication" />
+    </configuration>
+    <configuration name="ServiceConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.habeebcycle.microservices.discovery.serviceconfigserver.ServiceConfigServerApplication" />
+    </configuration>
+    <configuration name="ServiceDiscoveryServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-discovery-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.habeebcycle.microservices.discovery.servicediscoveryserver.ServiceDiscoveryServerApplication" />
+    </configuration>
+    <configuration name="ServiceGatewayServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-gateway-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.habeebcycle.microservices.discovery.servicegatewayserver.ServiceGatewayServerApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ProductServiceApplication" />
+      <item itemvalue="Spring Boot.RecommendationServiceApplication" />
+      <item itemvalue="Spring Boot.ReviewServiceApplication" />
+      <item itemvalue="Spring Boot.ProductCompositeServiceApplication" />
+      <item itemvalue="Spring Boot.ServiceDiscoveryServerApplication" />
+      <item itemvalue="Spring Boot.ServiceGatewayServerApplication" />
+      <item itemvalue="Spring Boot.ServiceAuthorizationServerApplication" />
+      <item itemvalue="Spring Boot.ServiceConfigServerApplication" />
+      <item itemvalue="JUnit.MessagingTests" />
+      <item itemvalue="JUnit.ProductCompositeServiceApplicationTests" />
+      <item itemvalue="JUnit.ServiceDiscoveryServerApplicationTests" />
+      <item itemvalue="JUnit.ServiceAuthorizationServerApplicationTests" />
+      <item itemvalue="JUnit.ServiceAuthorizationServerApplicationTests.requestTokenWhenUsingPasswordGrantTypeThenOk" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProductCompositeServiceApplicationTests" />
+        <item itemvalue="JUnit.MessagingTests" />
+        <item itemvalue="JUnit.ServiceDiscoveryServerApplicationTests" />
+        <item itemvalue="JUnit.ServiceAuthorizationServerApplicationTests" />
+        <item itemvalue="JUnit.ServiceAuthorizationServerApplicationTests.requestTokenWhenUsingPasswordGrantTypeThenOk" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b546f0b3-5e00-44cf-bd3d-7b5e8ca3efad" name="Default" comment="" />
+      <created>1584185725122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584185725122</updated>
+      <workItem from="1584185734247" duration="9100000" />
+      <workItem from="1584220891757" duration="9146000" />
+      <workItem from="1584344061553" duration="50204000" />
+      <workItem from="1584594782096" duration="6191000" />
+      <workItem from="1584679911826" duration="1309000" />
+      <workItem from="1584853193373" duration="45357000" />
+      <workItem from="1585099389502" duration="10772000" />
+      <workItem from="1585434892436" duration="807000" />
+      <workItem from="1585436112636" duration="14668000" />
+      <workItem from="1585715264669" duration="24029000" />
+      <workItem from="1585798158719" duration="5129000" />
+      <workItem from="1585977000348" duration="5060000" />
+      <workItem from="1586040950393" duration="8657000" />
+      <workItem from="1586136738019" duration="25663000" />
+      <workItem from="1586479731359" duration="9912000" />
+      <workItem from="1586496727482" duration="1839000" />
+      <workItem from="1586659216270" duration="2002000" />
+      <workItem from="1586752444270" duration="5339000" />
+      <workItem from="1586817522718" duration="4969000" />
+      <workItem from="1586834548177" duration="13442000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ServiceDiscoveryServerApplicationTests - 2020.04.06 at 14h 07m 28s.xml">
+      <configuration name="ServiceDiscoveryServerApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ServiceDiscoveryServerApplicationTests - 2020.04.06 at 14h 12m 37s.xml">
+      <configuration name="ServiceDiscoveryServerApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MessagingTests - 2020.04.07 at 14h 20m 30s.xml">
+      <configuration name="MessagingTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MessagingTests - 2020.04.07 at 14h 22m 26s.xml">
+      <configuration name="MessagingTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductCompositeServiceApplicationTests - 2020.04.07 at 14h 24m 10s.xml">
+      <configuration name="ProductCompositeServiceApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductCompositeServiceApplicationTests - 2020.04.10 at 15h 48m 36s.xml">
+      <configuration name="ProductCompositeServiceApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductCompositeServiceApplicationTests - 2020.04.10 at 15h 58m 56s.xml">
+      <configuration name="ProductCompositeServiceApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductCompositeServiceApplicationTests - 2020.04.12 at 12h 43m 57s.xml">
+      <configuration name="ProductCompositeServiceApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductCompositeServiceApplicationTests - 2020.04.12 at 12h 46m 39s.xml">
+      <configuration name="ProductCompositeServiceApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductCompositeServiceApplicationTests - 2020.04.12 at 12h 48m 18s.xml">
+      <configuration name="ProductCompositeServiceApplicationTests" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="272287000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" weight="0.32963374" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.28464818" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Docker" order="7" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32963374" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32963374" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" weight="0.32963374" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Run Dashboard" order="7" weight="0.32963374" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32963374" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.2408435" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32963374" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.20199779" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21908316" />
+      <window_info anchor="right" id="Bean Validation" order="3" weight="0.32995737" />
+      <window_info id="Web" order="3" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32963374" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/com/habeebcycle/microservices/api/core/recommendation/RecommendationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/com/habeebcycle/microservices/api/core/product/ProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/habeebcycle/microservices/util/exceptions/InvalidInputException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" selection-start-column="24" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/github/resilience4j/resilience4j-circuitbreaker/1.1.0/resilience4j-circuitbreaker-1.1.0.jar!/io/github/resilience4j/circuitbreaker/CircuitBreakerRegistry.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-238">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/product-composite-service/src/test/java/com/habeebcycle/microservices/services/productcompositeservice/ProductCompositeServiceApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1071">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/discovery/service-discovery-server/src/main/java/com/habeebcycle/microservices/discovery/servicediscoveryserver/config/SecurityConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="36" column="84" selection-start-line="36" selection-start-column="84" selection-end-line="36" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/product-composite-service/src/main/java/com/habeebcycle/microservices/services/productcompositeservice/config/SecurityConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/discovery/service-gateway-server/src/main/java/com/habeebcycle/microservices/discovery/servicegatewayserver/config/SecurityConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/product-composite-service/src/test/resources/application.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="76" column="73" selection-start-line="76" selection-start-column="73" selection-end-line="76" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/com/habeebcycle/microservices/api/composite/product/ProductCompositeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="55" column="24" lean-forward="true" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_all.bash">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2431">
+          <caret line="143" column="39" selection-start-line="143" selection-start-column="39" selection-end-line="143" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/product-composite-service/src/main/java/com/habeebcycle/microservices/services/productcompositeservice/integration/ProductCompositeIntegration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/discovery/service-gateway-server/src/main/java/com/habeebcycle/microservices/discovery/servicegatewayserver/config/HealthCheckConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="49" column="50" lean-forward="true" selection-start-line="49" selection-start-column="50" selection-end-line="49" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/discovery/service-config-server/src/main/resources/bootstrap.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/discovery/service-discovery-server/src/main/resources/bootstrap.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="161" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/review-service/src/main/resources/bootstrap.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="92" selection-start-line="19" selection-start-column="92" selection-end-line="19" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/recommendation-service/src/main/resources/bootstrap.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/product-service/src/main/resources/bootstrap.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="161" selection-start-line="19" selection-start-column="161" selection-end-line="19" selection-end-column="161" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/product-composite-service/src/main/resources/bootstrap.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.evn">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/discovery/service-authorization-server/src/main/resources/bootstrap.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/discovery/service-config-server/src/main/resources/application.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="10" lean-forward="true" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/review-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="71" column="8" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/recommendation-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="62" column="8" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/product-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="60" column="8" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/discovery/service-discovery-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="41" column="56" lean-forward="true" selection-start-line="41" selection-start-column="56" selection-end-line="41" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/discovery/service-gateway-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/discovery/service-authorization-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="50" column="55" lean-forward="true" selection-start-line="50" selection-start-column="55" selection-end-line="50" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-repo/product-composite-service.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="129" column="24" selection-start-line="129" selection-start-column="24" selection-end-line="129" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-repo/recommendation-service.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-repo/service-gateway-server.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/discovery/service-gateway-server/src/main/resources/bootstrap.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-repo/service-authorization-server.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-repo/service-discovery-server.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-repo/product-service.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose-kafka.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="94" column="43" selection-start-line="94" selection-start-column="43" selection-end-line="94" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose-external-services.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="50" column="24" lean-forward="true" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose-partitions.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="192" column="16" lean-forward="true" selection-start-line="192" selection-start-column="16" selection-end-line="198" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-repo/application.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/discovery/service-authorization-server/src/main/java/com/habeebcycle/microservices/discovery/serviceauthorizationserver/config/AuthorizationServerConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="169" column="6" selection-start-line="169" selection-start-column="6" selection-end-line="169" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-repo/review-service.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/github/resilience4j/resilience4j-circuitbreaker/1.1.0/resilience4j-circuitbreaker-1.1.0.jar!/io/github/resilience4j/circuitbreaker/CircuitBreaker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5560">
+          <caret line="77" column="32" selection-start-line="77" selection-start-column="23" selection-end-line="77" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/product-composite-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="100" column="21" selection-start-line="100" selection-start-column="21" selection-end-line="100" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/product-service/src/main/java/com/habeebcycle/microservices/services/productservice/services/ProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/discovery/service-authorization-server/src/main/java/com/habeebcycle/microservices/discovery/serviceauthorizationserver/ServiceAuthorizationServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/product-composite-service/src/main/java/com/habeebcycle/microservices/services/productcompositeservice/ProductCompositeServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/discovery/service-gateway-server/src/main/java/com/habeebcycle/microservices/discovery/servicegatewayserver/ServiceGatewayServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/product-composite-service/src/main/java/com/habeebcycle/microservices/services/productcompositeservice/services/ProductCompositeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="88" column="26" selection-start-line="88" selection-start-column="26" selection-end-line="88" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/zipkin-tables.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="129" column="17" selection-start-line="129" selection-start-column="17" selection-end-line="129" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>product-service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
