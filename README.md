@@ -1,29 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-    <modelVersion>4.0.0</modelVersion>
+# Ecommerce Microservices Project
 
-    <groupId>com.habeebcycle</groupId>
-    <artifactId>microservices</artifactId>
-    <version>1.0</version>
+A **Spring Boot-based microservices architecture** for an ecommerce platform, developed by **Manvitha Chowdary Ramineni**.
 
-    <packaging>pom</packaging>
+## 🚀 Features
+- Product Catalog Service
+- Recommendation Service
+- Review Service
+- API Gateway with Routing
+- Service Discovery (Eureka)
+- Authorization Server with OAuth2
+- Centralized Configuration with Config Server
+- Docker Compose for easy local development
 
-    <name>parent-project</ManvithaRamineni>
+## 🛠️ Tech Stack
+- Java 11+
+- Spring Boot
+- Spring Cloud (Eureka, Gateway, Config)
+- OAuth2 / JWT
+- Maven
+- Docker & Docker Compose
 
-    <modules>
-        <module>services/product-composite-service</module>
-        <module>services/product-service</module>
-        <module>services/recommendation-service</module>
-        <module>services/review-service</module>
-        <module>discovery/service-discovery-server</module>
-        <module>discovery/service-gateway-server</module>
-        <module>discovery/service-authorization-server</module>
-        <module>discovery/service-config-server</module>
-        <module>api</module>
-        <module>util</module>
-    </modules>
+## 📦 Architecture
+This project follows a **microservices architecture**:
+- Each service is independently deployable
+- RESTful APIs for inter-service communication
+- Centralized configuration
+- Secure authentication with OAuth2
 
+## 🏃‍♂️ How to Run
+1. Clone this repository
+2. Ensure Docker is installed
+3. Run `docker-compose up` in the project root
+4. Access services through the API Gateway
 
-</project>"Updated by Manvitha Ramineni on 2025-07-07" 
+## 👤 Author
+- **Manvitha Chowdary Ramineni**
